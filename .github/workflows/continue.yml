@@ -1,4 +1,4 @@
-name: Website Deployment
+name: Continue Workflow
 on:
   push:
     branches:
